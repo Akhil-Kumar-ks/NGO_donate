@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/NGO_donate/static/css/main.71fa7a28.chunk.css",
+    "main.js": "/NGO_donate/static/js/main.86d57b30.chunk.js",
+    "main.js.map": "/NGO_donate/static/js/main.86d57b30.chunk.js.map",
+    "runtime-main.js": "/NGO_donate/static/js/runtime-main.b78911d3.js",
+    "runtime-main.js.map": "/NGO_donate/static/js/runtime-main.b78911d3.js.map",
+    "static/js/2.ece83bcd.chunk.js": "/NGO_donate/static/js/2.ece83bcd.chunk.js",
+    "static/js/2.ece83bcd.chunk.js.map": "/NGO_donate/static/js/2.ece83bcd.chunk.js.map",
+    "static/js/3.0aab6efc.chunk.js": "/NGO_donate/static/js/3.0aab6efc.chunk.js",
+    "static/js/3.0aab6efc.chunk.js.map": "/NGO_donate/static/js/3.0aab6efc.chunk.js.map",
+    "index.html": "/NGO_donate/index.html",
+    "static/css/main.71fa7a28.chunk.css.map": "/NGO_donate/static/css/main.71fa7a28.chunk.css.map",
+    "static/js/2.ece83bcd.chunk.js.LICENSE.txt": "/NGO_donate/static/js/2.ece83bcd.chunk.js.LICENSE.txt",
+    "static/media/img1.e5f43a27.jpg": "/NGO_donate/static/media/img1.e5f43a27.jpg",
+    "static/media/img2.aa9582cd.jpg": "/NGO_donate/static/media/img2.aa9582cd.jpg",
+    "static/media/img3.b2a9d836.jpg": "/NGO_donate/static/media/img3.b2a9d836.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b78911d3.js",
+    "static/js/2.ece83bcd.chunk.js",
+    "static/css/main.71fa7a28.chunk.css",
+    "static/js/main.86d57b30.chunk.js"
+  ]
+}
