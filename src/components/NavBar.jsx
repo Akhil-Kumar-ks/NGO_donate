@@ -7,7 +7,7 @@ function NavBar() {
       <div className="container-fluid">
           <div>
       <img src="https://img.icons8.com/external-those-icons-fill-those-icons/50/000000/external-call-mobile-telephone-those-icons-fill-those-icons.png" style={{width:"20px", height: "20px"}}/>
-        <a className="navbar-brand " href="">+91 987653210</a>
+        <a className="navbar-brand " href="">+91 9964340937</a>
         </div>
         <div>
         <img src="https://img.icons8.com/material-outlined/24/000000/address.png"/>
