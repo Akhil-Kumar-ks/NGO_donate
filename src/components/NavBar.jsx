@@ -14,7 +14,7 @@ function NavBar() {
         <a className="navbar-brand" href="">Agile tech NGO, Mangalore </a>
         </div>
         <div className="Button">
-        <button type="button" class="btn btn-dark">Donate</button>
+        <a class="btn btn-dark" href="https://akhil-kumar-ks.github.io/payment/">Donate</a>
             </div>
         </div>
     </nav>
